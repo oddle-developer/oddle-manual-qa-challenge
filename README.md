@@ -8,8 +8,9 @@
 3. From the HTML form above, assume you have found several bugs with varying severities. Write the bug reports on the bugs you have found.
 
 ## Submission Steps
-1. Create a Google Drive folder containing all your answers. Share the folder and its contents with engineering+qa.hiring@oddle.me.
-2. Send email to engineering+qa.hiring@oddle.me with a link to the Google folder.
-3. If there are external links that cannot be added within the Google folder, please add the links in a Google Doc and add it to the folder.
+1. Write all your answers in Google Doc(s).
+2. Create a Google Drive folder containing all your answers. Share the folder and its contents with engineering+qa.hiring@oddle.me.
+3. Send email to engineering+qa.hiring@oddle.me with a link to the Google folder.
+4. If there are external links that cannot be added within the Google folder, please add the links in a Google Doc and add it to the folder.
 
 All the best with your assignment and we look forward to hearing from you soon!
